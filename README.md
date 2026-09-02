@@ -1,4 +1,4 @@
-# Hi, I'm Bianca 👋
+# Hi there 👋
 
 I'm a Data & Analytics professional and MSc student based in Copenhagen 🇩🇰.
 
@@ -8,8 +8,8 @@ workflows easier for people to use.
 
 ## 👩🏻‍💻 About me
 
-- 🎓 MSc student in Software Design
-- 📊 Working with Data & Analytics
+- 🎓 MSc student in Software Design @ IT University in Copenhagen
+- 📊 Working with Data & Analytics @ Novo Nordisk
 - 🧠 Interested in data engineering, analytics and developer workflows
 - 🌱 Currently improving my Python and software engineering skills
 - 🔧 Exploring how GitHub, Databricks and Microsoft Fabric can work together
