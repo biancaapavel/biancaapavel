@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Bianca 👋
 
-<!--
-**biancaapavel/biancaapavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data & Analytics professional and MSc student based in Copenhagen 🇩🇰.
 
-Here are some ideas to get you started:
+I'm interested in the space where **data, software engineering and
+cloud technologies** meet — especially making technical tools and
+workflows easier for people to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏻‍💻 About me
+
+- 🎓 MSc student in Software Design
+- 📊 Working with Data & Analytics
+- 🧠 Interested in data engineering, analytics and developer workflows
+- 🌱 Currently improving my Python and software engineering skills
+- 🔧 Exploring how GitHub, Databricks and Microsoft Fabric can work together
+
+## 🛠️ Tech & Tools
+
+### I work with
+
+![SQL](...)
+![Power BI](...)
+![Git](...)
+![GitHub](...)
+
+### Currently learning
+
+![Python](...)
+![Databricks](...)
+![Microsoft Fabric](...)
+
+## 🚀 Currently exploring
+
+- 🐍 Becoming more confident with Python
+- 🧱 Data engineering with Databricks
+- ☁️ Microsoft Fabric
+- 🔀 Git & GitHub workflows
+- 🤝 Making technical workflows easier for less-technical teams
+
+## 📌 Projects
+
+Coming soon ✨
