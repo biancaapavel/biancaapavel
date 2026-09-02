@@ -1,42 +1,57 @@
-# Hi there 👋
+# Hi, I'm Bianca 👋
 
-I'm a Data & Analytics professional and MSc student based in Copenhagen 🇩🇰.
+MSc Software Design student at IT University of Copenhagen, working with Data & Analytics.
 
-I'm interested in the space where **data, software engineering and
-cloud technologies** meet — especially making technical tools and
-workflows easier for people to use.
+I enjoy working at the intersection of **data, software and people** — turning business needs into practical digital solutions.
 
-## 👩🏻‍💻 About me
+Currently interested in data engineering, developer workflows, and how tools like GitHub, Databricks and Microsoft Fabric can make analytics work more scalable and collaborative.
 
-- 🎓 MSc student in Software Design @ IT University in Copenhagen
-- 📊 Working with Data & Analytics @ Novo Nordisk
-- 🧠 Interested in data engineering, analytics and developer workflows
-- 🌱 Currently improving my Python and software engineering skills
-- 🔧 Exploring how GitHub, Databricks and Microsoft Fabric can work together
+---
 
-## 🛠️ Tech & Tools
+## About
 
-### I work with
+- 🎓 MSc in Software Design @ ITU Copenhagen
+- 📊 Data & Analytics @ Novo Nordisk
+- 🧬 Background in Biotechnology
+- 💡 Interested in data engineering, digitalization and user-centered technology
+- 🌱 Currently strengthening my Python and software engineering skills
 
-![SQL](...)
-![Power BI](...)
-![Git](...)
-![GitHub](...)
+---
 
-### Currently learning
+## Tech & Tools
 
-![Python](...)
-![Databricks](...)
-![Microsoft Fabric](...)
+**Data & Analytics**
 
-## 🚀 Currently exploring
+![Power BI](https://img.shields.io/badge/Power%20BI-181717?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Databricks](https://img.shields.io/badge/Databricks-181717?style=flat-square&logo=databricks&logoColor=FF3621)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-181717?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-181717?style=flat-square&logo=postgresql&logoColor=white)
 
-- 🐍 Becoming more confident with Python
-- 🧱 Data engineering with Databricks
-- ☁️ Microsoft Fabric
-- 🔀 Git & GitHub workflows
-- 🤝 Making technical workflows easier for less-technical teams
+**Development & Collaboration**
 
-## 📌 Projects
+![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=3776AB)
 
-Coming soon ✨
+**Microsoft Ecosystem**
+
+![Power Platform](https://img.shields.io/badge/Power%20Platform-181717?style=flat-square)
+![SharePoint](https://img.shields.io/badge/SharePoint-181717?style=flat-square&logo=microsoftsharepoint&logoColor=038387)
+
+---
+
+## Currently exploring
+
+`Python` · `Data Engineering` · `Databricks` · `Microsoft Fabric` · `GitHub workflows`
+
+---
+
+## A little more about me
+
+I started in biotechnology and gradually moved toward digitalization, analytics and software.
+
+That mix is something I really value: understanding both the **technical side of a solution** and the **people who actually need to use it**.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/biiancaapavel)
